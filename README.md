@@ -1,2 +1,3 @@
 # Shaders_MaterialX
- A collection of Shaders in MaterialX format
+A small collection of Gold, Silver, Bronze and Copper MaterialX and their Substance counterpart.
+
