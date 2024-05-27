@@ -1,5 +1,5 @@
 # Shaders_MaterialX
-A small collection of gold, chrome, brass, copper and steel MaterialX and their Substance counterpart.
+A small collection of gold, chrome, brass, copper and steel MaterialX and their Substance counterpart. At the moment of writing I have only released the spsm files (substance smart material).
 
 ## Gold
 ![Slide_001](https://github.com/bwvanlith/Shaders_MaterialX/assets/47045108/9fb35409-66ab-4eb1-a4c0-3579b8b97005)
